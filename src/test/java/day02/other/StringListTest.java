@@ -1,6 +1,5 @@
 package day02.other;
 
-import day02.StringLists;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
