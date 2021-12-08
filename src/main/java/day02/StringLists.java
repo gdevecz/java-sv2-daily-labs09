@@ -5,7 +5,7 @@ import java.util.List;
 
 public class StringLists {
 
-    List<String> words;
+    private List<String> words;
 
     public List<String> shortestWords(List<String> words) {
         if (words == null) {
